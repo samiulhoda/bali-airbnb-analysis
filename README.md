@@ -44,7 +44,13 @@ This project analyzes Airbnb listings in Bali (Feb 2025 – Jan 2026) to identif
 
 ## 📷 Dashboard Preview
 
-(Add your screenshots here)
+![Executive_Overview](https://github.com/user-attachments/assets/dac73e03-4b5f-4b38-ad99-3ce29b543ac2)
+
+![Listing_Deep_Dive](https://github.com/user-attachments/assets/c14bc9fb-be47-4b55-bdc6-fd2e34dda22c)
+
+![Seasonality](https://github.com/user-attachments/assets/49c45d95-7dc4-4c7e-b7f5-2b5a290ba54a)
+
+![Insights](https://github.com/user-attachments/assets/c5325d75-6a0d-44a6-98e5-93f42f73ebe2)
 
 ---
 
