@@ -51,7 +51,7 @@ This project analyzes Airbnb listings in Bali (Feb 2025 – Jan 2026) to identif
 ## 📎 Files
 
 * `.pbix` file included
-* Dataset 
+* Dataset - https://www.kaggle.com/datasets/jasonairroi/airbnb-market-data-asia-pacific/data
 
 ---
 
